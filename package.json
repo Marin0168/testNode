@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "node.js": "^0.0.1-security"
+  },
+  "name": "bounce_tijden_scherm",
+  "version": "0.0.1",
+  "description": "Dit is voor BounceValley waar je de bandjes tijden kan zien.",
+  "main": "server.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marin0168/BounceScherm.git"
+  },
+  "author": "Marin0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marin0168/BounceScherm/issues"
+  },
+  "homepage": "https://github.com/Marin0168/BounceScherm#readme",
+  "keywords": []
+}
